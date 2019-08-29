@@ -54,7 +54,7 @@ Group work on the problem sets is encouraged and you are encouraged to turn in t
 
 ### Schedule
 
-There is a tentative schedule at (schedule.csv)
+There is a tentative [schedule](schedule.csv).
 
 ### Projects
 
