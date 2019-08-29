@@ -1,3 +1,11 @@
+Acknowledgements
+----------------
+
+These lectures have been built on the resources from Jörn Wilms, Ed Brown, and Saurabh Jha - as well as
+countless other internet resources. If not otherwise specified any imagery is part of the public domain. 
+All material is licensed under Creative Commons BY 4.0 NC if not otherwise specified. 
+
+
 Books
 -----
 
